@@ -1,0 +1,2 @@
+This homework assignment is meant to teach us about Working with Branches, Merging Changes, Using CLI for Verification,
+and cleaning up by deleting branches. This Repository contains the index.html, git_log.txt, repo-location.txt, and README.md.
